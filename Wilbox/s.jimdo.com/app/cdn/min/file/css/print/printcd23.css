@@ -1,0 +1,64 @@
+.body,body{background:white !important;border:0
+!important;margin:0
+!important;padding:0
+!important;filter:none !important}.body *,
+body
+*{visibility:hidden !important;filter:none !important}.body div.cc-content-parent,
+body div.cc-content-parent{position:absolute !important;left:0 !important;top:0 !important;width:100% !important;overflow:visible !important;filter:none !important;margin:0
+!important;padding:0
+!important;background:none !important;background-color:transparent !important}body div#content_area,
+.body
+div#content_area{visibility:visible !important;width:85% !important;margin:0
+!important;padding:0
+!important;float:none !important;left:0 !important;top:0 !important;filter:none !important}body div#content_area *,
+.body div#content_area
+*{visibility:visible !important;color:black !important;filter:none !important}* html .body *,
+* html  body
+*{visibility:visible !important}* html .body div.cc-content-parent,
+* html  body div.cc-content-parent{position:static !important}* html div.cc-tp-header,
+* html div#cc-tp-header,
+* html div#header,
+* html div#emotion-header,
+* html div.cc-tp-emotion,
+* html div.emotion,
+* html div#cc-tp-emotion,
+* html div#emotion,
+* html div#image_banner,
+* html div#cc-tp-sidebar,
+* html div.cc-tp-sidebar,
+* html div#sidebar,
+* html div.sidebar,
+* html div#navigation,
+* html ul.mainNav1,
+* html ul.mainNav2,
+* html ul.mainNav3,
+* html div#cc-tp-footer,
+* html div#contentfooter,
+* html div#cc-tp-wave-left,
+* html div#cc-tp-wave-right{display:none !important}* html .form
+textarea{height:auto !important}body div#content_area p a:after,
+body div#content_area li a:after,
+body div#content_area div.blogselection a:after{content:" ( -> "attr(href)") " !important}body div#content_area div.ccgalerie a:after,
+body div#content_area a.refresh:after,
+body div#content_area div.blogselection h1 a:after,
+body div#content_area div.blogselection span.comment a:after{content:none !important}body div#content_area div.blogselection span.comment a,
+body div#content_area div.blogselection span.comment a:visited{text-decoration:none !important}body div#content_area p,
+body div#content_area li,
+body div#content_area td,
+body div#content_area div,
+body div#content_area input,
+body div#content_area
+select{font:normal 12pt/18pt Times New Roman !important}body div#content_area
+h3{font:bold 12pt/150% Times New Roman !important}body div#content_area
+h2{font:bold 16pt/150% Times New Roman !important;margin:30pt 0 0 0 !important}body div#content_area
+h1{font:bold 22pt/150% Times New Roman !important;margin:30pt 0 0 0 !important}body div#content_area
+a.addfriend{font:normal 12pt/18pt Times New Roman !important}body div#content_area a.addfriend:before{content:" + " !important}div.blogselection
+div.datetime{float:none !important;width:auto !important;height:auto !important;margin:0
+!important;margin-top:20px !important}div.blogselection p.day-word,
+div.blogselection p.day,
+div.blogselection p.mon,
+div.blogselection
+p.yr{display:inline !important}body div#content_area div.blogselection
+h1{margin:0
+!important;font:bold 16pt/150% Times New Roman !important}body div#content_area div.blogselection h1 a,
+body div#content_area div.blogselection h1 a:visited{text-decoration:none !important}

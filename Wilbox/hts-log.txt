@@ -1,0 +1,11 @@
+HTTrack3.45-4+htsswf+htsjava launched on Mon, 07 May 2012 10:26:13 at http://maquette-site.jimdo.com/ +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2010], %s -->" -%l "fr, en, *" http://maquette-site.jimdo.com/ -O1 D:\Documents\Benoît\Documents\Wilbox\Wilbox +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.45-4 mirror complete in 1 minutes 9 seconds : 123 links scanned, 120 files written (1880828 bytes overall) [1685664 bytes received at 24429 bytes/sec], 319161 bytes transfered using HTTP compression in 7 files, ratio 25%, 2.7 requests per connection
+(No errors, 0 warnings, 0 messages)
